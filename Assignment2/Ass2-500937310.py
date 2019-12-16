@@ -30,8 +30,6 @@ class MyTrie:
         self.insert_helper(child_node, word, idx + 1)
 
     def exists(self, word, position=0):
-        # Return true if the passed word exists in this trie node
-        # A terminal node will return true if the word passed is ""
 
         current_node = self.root_node
         found = True
