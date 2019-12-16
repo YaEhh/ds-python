@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ea0bb13-a194-43fb-a930-21f7e44017dc" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ds-python-labs" />
+  </component>
+  <component name="ProjectId" id="1UoM9hyMxa1SDqjNGbVt7izDLk3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignment2" />
+      <recent name="$PROJECT_DIR$/Lab2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.TrieTester">
+    <configuration name="Run Assignment" type="PythonConfigurationType" factoryName="Python">
+      <module name="ds-python-labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment1/Ass1-500937310.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run Assignment1 Test" type="PythonConfigurationType" factoryName="Python">
+      <module name="ds-python-labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment1/VectorTester.py" />
+      <option name="PARAMETERS" value="Ass1-500937310.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run Lab1 Test" type="PythonConfigurationType" factoryName="Python">
+      <module name="ds-python-labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab1/NewQueueTester.py" />
+      <option name="PARAMETERS" value="Lab1-500937310.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run Lab1" type="PythonConfigurationType" factoryName="Python">
+      <module name="ds-python-labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab1/Lab1-500937310.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run Lab2 Test" type="PythonConfigurationType" factoryName="Python">
+      <module name="ds-python-labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab2/AVLTester.py" />
+      <option name="PARAMETERS" value="Lab2-500937310.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run Lab3 Test" type="PythonConfigurationType" factoryName="Python">
+      <module name="ds-python-labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/HuffmanTester.py" />
+      <option name="PARAMETERS" value="Lab3-500937310.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run Lab3" type="PythonConfigurationType" factoryName="Python">
+      <module name="ds-python-labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab3/Lab3-500937310.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run Lab4 Test" type="PythonConfigurationType" factoryName="Python">
+      <module name="ds-python-labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab4" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab4/HashTester.py" />
+      <option name="PARAMETERS" value="Lab4-500937310.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run Lab5 Test" type="PythonConfigurationType" factoryName="Python">
+      <module name="ds-python-labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab5/HeapSortTester.py" />
+      <option name="PARAMETERS" value="Lab5-500937310" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run Lab5" type="PythonConfigurationType" factoryName="Python">
+      <module name="ds-python-labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab5/Lab5-500937310.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrieTester" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ds-python-labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment2/TrieTester.py" />
+      <option name="PARAMETERS" value="Ass2-500937310.py" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.TrieTester" />
+      <item itemvalue="Python.Run Assignment" />
+      <item itemvalue="Python.Run Assignment1 Test" />
+      <item itemvalue="Python.Run Lab1 Test" />
+      <item itemvalue="Python.Run Lab2 Test" />
+      <item itemvalue="Python.Run Lab3 Test" />
+      <item itemvalue="Python.Run Lab4 Test" />
+      <item itemvalue="Python.Run Lab5 Test" />
+      <item itemvalue="Python.Run Lab5" />
+      <item itemvalue="Python.Run Lab3" />
+      <item itemvalue="Python.Run Lab1" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ea0bb13-a194-43fb-a930-21f7e44017dc" name="Default" comment="" />
+      <created>1576016818078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576016818078</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="342" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576450011563">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="283" y="342" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1576450011563" />
+    <state x="512" y="303" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576434470392">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="439" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-1920.-180.1920.1080@0.0.1440.900" timestamp="1576018753304" />
+    <state x="512" y="303" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1576434470392" />
+    <state x="627" y="237" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1576422502108">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="627" y="237" key="#com.intellij.ide.macro.MacrosDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1576422502108" />
+    <state x="728" y="235" key="#xdebugger.evaluate" timestamp="1576360761895">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="728" y="235" key="#xdebugger.evaluate/0.0.1680.1050@0.0.1680.1050" timestamp="1576360761895" />
+    <state width="701" height="466" key="DebuggerActiveHint" timestamp="1576433884372">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="701" height="466" key="DebuggerActiveHint/0.0.1680.1050@0.0.1680.1050" timestamp="1576433884372" />
+    <state width="661" height="951" key="GridCell.Tab.-1.bottom" timestamp="1576352044647">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="661" height="951" key="GridCell.Tab.-1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1576352044647" />
+    <state width="661" height="951" key="GridCell.Tab.-1.center" timestamp="1576352044647">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="661" height="951" key="GridCell.Tab.-1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1576352044647" />
+    <state width="661" height="951" key="GridCell.Tab.-1.left" timestamp="1576352044646">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="661" height="951" key="GridCell.Tab.-1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1576352044646" />
+    <state width="661" height="951" key="GridCell.Tab.-1.right" timestamp="1576352044647">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="661" height="951" key="GridCell.Tab.-1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1576352044647" />
+    <state width="709" height="951" key="GridCell.Tab.0.bottom" timestamp="1576450275941">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="709" height="951" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1576450275941" />
+    <state width="709" height="951" key="GridCell.Tab.0.center" timestamp="1576450275940">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="709" height="951" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1576450275940" />
+    <state width="709" height="951" key="GridCell.Tab.0.left" timestamp="1576450275940">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="709" height="951" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1576450275940" />
+    <state width="709" height="951" key="GridCell.Tab.0.right" timestamp="1576450275941">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="709" height="951" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1576450275941" />
+    <state width="661" height="951" key="GridCell.Tab.1.bottom" timestamp="1576352040852">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="661" height="951" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1576352040852" />
+    <state width="661" height="951" key="GridCell.Tab.1.center" timestamp="1576352040851">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="661" height="951" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1576352040851" />
+    <state width="661" height="951" key="GridCell.Tab.1.left" timestamp="1576352040850">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="661" height="951" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1576352040850" />
+    <state width="661" height="951" key="GridCell.Tab.1.right" timestamp="1576352040852">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="661" height="951" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1576352040852" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1576019821224">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900/-1920.-157.1920.1057@0.0.1440.900" timestamp="1576018934883" />
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900/-1920.-180.1920.1080@0.0.1440.900" timestamp="1576019821224" />
+    <state x="463" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1576449727092">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1920.-180.1920.1080@0.0.1440.900" timestamp="1576018349966" />
+    <state x="463" y="329" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1576449727092" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Assignment1/Ass1-500937310.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lab1/NewQueueTester.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lab1/NewQueueTester.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lab3/HuffmanTester.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lab3/Lab3-500937310.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lab5/Lab5-500937310.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lab5/Lab5-500937310.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="first_node.data" language="Python" />
+        <watch expression="second_node.data" language="Python" />
+        <watch expression="queue" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

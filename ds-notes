@@ -1,0 +1,179 @@
+Types of Sorting
+   - On the basis of Space used
+    - In place out of place
+        - Bubble sort
+    - out of place
+        - requires extra space
+        - Merge sort
+
+   - On the basis of Stability
+    - Stable
+    - Unstable
+
+
+    Stable sort if like items maintain the same order after the sort
+
+    Background: a "stable" sorting algorithm keeps the items with the same sorting key in order.
+     Suppose we have a list of 5-letter words:
+
+peach
+straw
+apple
+spork
+If we sort the list by just the first letter of each word then a stable-sort would produce:
+
+apple
+peach
+straw
+spork
+
+In an unstable sort algorithm, straw or spork may be interchanged, but in a stable one, they stay in the same
+relative positions (that is, since straw appears before spork in the input,
+it also appears before spork in the output).
+
+We could sort the list of words using this algorithm: stable sorting by column 5, then 4, then 3, then 2, then 1.
+In the end, it will be correctly sorted. Convince yourself of that. (by the way, that algorithm is called radix sort)
+
+Increasing order - if the successive element is greater than the previous one
+Decreasing order - fi the successive element is less than the previous
+
+Non-increasing order - if less an or equal to the previous
+Non-decreasing order - is greater than or equal to the previous
+
+Bubble Sort
+    - Sinking sort
+    - Step through list and compares adjacent items and swaps them if they are in wrong order
+    - Next iteration through, you don't need to check the last index because you can be sure that number is the largest
+    - You keep going until you get to the last one
+        - Two loops - one handles the decreasing index, the other handles the comparison between the two items
+        - T(n)
+            - O(n^2) because the loops are nested in each other
+    - When to use
+        - When input is already sorted
+        - Space is a concern
+        - Easy to implement
+    - When not to use
+        - Average case time complexity is poor
+
+    Bubble Sort is a stable algorithim
+
+Selection Sort
+    - find the minimum element and push it to the left of the array and keep doing that until the end
+    - nest loop - O(n^2) time complexity
+    When to use
+    - When we don't have additional memory
+    - Want easy implementation
+    When not to use
+    - When time complexity is a concern
+
+    Best / Average / Worst is all O(n^2)
+
+
+
+
+Insertion Sort
+    - Divide array into two parts - sorted and unsorted
+    - take the first item into the sorted array and take them one by one and check all items in sorted array - place it correctly
+    - nested loop - O(n^2)
+
+    When to use
+    - No extra space
+    - Best when we have continuous inflow of numbers and want to keep the list sorted
+
+
+    When not to use
+    - Average case is bad
+
+    Best Case - O(n)
+    Average Case - O(n^2)
+    Worst Case - O(n^2)
+
+    Has a fast best case running time and is a good sorting algorithim to use if the input list is already mostl sorted.
+    For larger most unordered lists, an algorithim with a faster worst and average case running time such as merge sort would be a better coil
+
+
+Bucket Sort
+--
+Merge Sort - Stable
+    Array gets broken down into halves until it can't be halved anymore
+    When a an array is split into individual cells, that is when it's sorted and marged, and then it cascades up by merging
+
+    All cases Case - O(n logn)
+    Space complexity - O(n)
+
+    When to use
+        - Need a stable sort
+        - O(n logn)
+
+     When not to use
+        - WHen space is a cocern like embedded systems
+
+
+
+Quick Sort - Unstable
+    - Each step it finds Pivot and makes sure smaller items are on the left and greater items are on the right
+    - Best/Avg case - n logn
+    - Worst - O(n^2)
+
+
+    When to use
+        - When average case is desired to be O(n log n)
+
+    When not to use
+        - Space is a concern
+        - When stable sort is required
+
+Heap Sort
+    - Heap sort works by first organizing the data to be sorted into a heap (tree)
+    - It them removes the top most item and inserts it in current Array. It keeps doing until Binary Heap is not empty
+    - Is best suited with an array
+
+    All case O(n logn) - time
+    Space Complexity - O(1)
+
+    When to use
+        - Space is a conern
+    WHen not to use
+        - not stable
+
+
+++ Radix sort uses counting sort as a subroutine
+    Using - counting sort - linear time algo that sorts in O(n+k) time when elements are in range from 1 to k
+    O(n +k) when elements are in range from 1 to k
+
+    - sort by each significant digit
+
+    Let there be d digits in input integers. Radix Sort takes O(d*(n+b)) where b is the base for representing numbers. For example decimal sytem
+    it is 10
+
+    10, 15, 1, 1, 60, 5, 100, 25, 50
+
+    10 buckets numbered 0 -9
+    FInd the number of digits in the largest number - 100
+    Fill in the reamining 0s on the other numbers
+
+    Since there are 3 digits - it will require 3 pases
+
+    based on teh first digit assing the numbers to their respective queues
+
+    O(d(n+b) - quite fast when the range of input is fairly low compared to the number of elements in the array.
+
+    Is Radix sort best?
+        - if p is large, pn maybe not better than n logn or n^2
+        - if space is limited, Radix sort is bad - all those Qs
+
+    Quick sort is about 2x faster tahn Heap Sort and merge sort in practie
+    - is Quick sort best
+        - space is limited, quick sort and merge sort are bade becasuse lots of stack space or recursive calls - Heap sort is best
+        - if guarantee required - real time application, quick sort is bad O(n^2) worst case, Heap or Merge sort is better
+        - if stability requires - Merge sort is best
+
+    If A is mostly in order insertion sort is good
+
+
+
+
+
+
+
+
